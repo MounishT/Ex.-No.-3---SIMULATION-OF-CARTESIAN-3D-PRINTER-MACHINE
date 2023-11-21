@@ -54,9 +54,6 @@
 ![PRODUCT 4](https://github.com/MounishT/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138955798/6ecbfc44-45b5-4798-9d77-9751c8e45743)
 ![PRODUCT 5](https://github.com/MounishT/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138955798/f5a88c72-ac8c-4d63-a4d4-f2ad4b136910)
 
-
-## Output:
-
 ### Name: T MOUNISH
 ### Register Number:23002806
 
