@@ -48,7 +48,12 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![WhatsApp Image 2023-11-21 at 03 06 11_ee93c889](https://github.com/MounishT/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138955798/b218ee83-626b-46eb-9b23-3080c737d550)
+![PRODUCT 1](https://github.com/MounishT/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138955798/8300ac03-2200-43e4-a8d5-df4409ad5c6e)
+![PRODUCT 2](https://github.com/MounishT/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138955798/a9265964-0b0d-4ed6-9fe8-6c6b9ff403e8)
+![PRODUCT 3](https://github.com/MounishT/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138955798/7c7b5615-3709-4d18-b0af-021d751ebf8f)
+![PRODUCT 4](https://github.com/MounishT/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138955798/6ecbfc44-45b5-4798-9d77-9751c8e45743)
+![PRODUCT 5](https://github.com/MounishT/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138955798/f5a88c72-ac8c-4d63-a4d4-f2ad4b136910)
+
 
 ## Output:
 
